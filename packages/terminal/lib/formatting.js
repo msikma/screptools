@@ -13,7 +13,6 @@ const {terminalConverter} = require('./converter')
 const getFormattedChatMessages = chatItems => {
   const formatted = []
   for (const item of chatItems) {
-    console.log(item)
     const {senderName, senderColor, message, time, timeFormatted} = item
     formatted.push([{formatted: timeFormatted, time}, `${terminalConverter.convertChatMessage(senderName, senderColor, message)}`])
   }
