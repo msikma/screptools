@@ -1,0 +1,26 @@
+{
+  "name": "screptools-process",
+  "version": "0.1.0",
+  "description": "Library for working with StarCraft: Remastered replay and map files",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "lib/",
+    "package.json",
+    "license.md",
+    "readme.md"
+  ],
+  "homepage": "https://github.com/msikma/screptools",
+  "repository": "https://github.com/msikma/screptools",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "format-duration": "^1.4.0",
+    "sctoolsdata": "^0.1.1",
+    "slugify": "^1.6.4",
+    "strip-ansi": "^6.0.0",
+    "tiny-sha1": "^0.2.1"
+  }
+}
