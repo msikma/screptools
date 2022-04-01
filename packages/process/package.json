@@ -18,7 +18,7 @@
   "devDependencies": {},
   "dependencies": {
     "format-duration": "^1.4.0",
-    "sctoolsdata": "^0.1.1",
+    "sctoolsdata": "^0.1.3",
     "slugify": "^1.6.4",
     "strip-ansi": "^6.0.0",
     "tiny-sha1": "^0.2.1"

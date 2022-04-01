@@ -82,10 +82,10 @@ parse-ms@^1.0.1:
   resolved "https://registry.yarnpkg.com/parse-ms/-/parse-ms-1.0.1.tgz#56346d4749d78f23430ca0c713850aef91aa361d"
   integrity sha1-VjRtR0nXjyNDDKDHE4UK75GqNh0=
 
-sctoolsdata@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/sctoolsdata/-/sctoolsdata-0.1.1.tgz#74f49fde3fd57ed4c3452e2f2cd26d0df649fdbb"
-  integrity sha512-eKkmVuMAVCc9wKCeC2tv6HVGvQYCrwkvaconX2JtvAZEOisz81IecV9Aets3UJFwR4GE1rN6vV9yNjYUcZ9IDA==
+sctoolsdata@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/sctoolsdata/-/sctoolsdata-0.1.3.tgz#ca345c44cfe3674afaa7457632dc1e7ea141f205"
+  integrity sha512-R71wPVd2QghrCkqrB7+bvSWrIh3ZElC7CBpeLLM8J5smUtYCUWQi9H7gCF8Lmte/moB722mmj/ps+BrZHHsk5Q==
 
 slugify@^1.6.4:
   version "1.6.5"

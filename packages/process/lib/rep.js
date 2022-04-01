@@ -1,8 +1,7 @@
 // screptools <https://github.com/msikma/screptools>
 // © MIT license
 
-const {framesToMs, stripEscapeCodes, getSwatchFromSlotID, getSwitchedSwatch, sortRaces} = require('sctoolsdata')
-const {parseMapName} = require('./mapname')
+const {framesToMs, stripEscapeCodes, getSwatchFromSlotID, getSwitchedSwatch, sortRaces, parseMapName} = require('sctoolsdata')
 const {getRaceLetter, getFormattedDuration, slugifyString, objectEmpty} = require('./util')
 
 /**
