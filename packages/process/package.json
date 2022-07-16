@@ -1,6 +1,6 @@
 {
   "name": "screptools-process",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "Library for working with StarCraft: Remastered replay and map files",
   "main": "index.js",
   "scripts": {},
@@ -18,7 +18,7 @@
   "devDependencies": {},
   "dependencies": {
     "format-duration": "^1.4.0",
-    "sctoolsdata": "^0.1.3",
+    "sctoolsdata": "^0.1.5",
     "slugify": "^1.6.4",
     "strip-ansi": "^6.0.0",
     "tiny-sha1": "^0.2.1"
