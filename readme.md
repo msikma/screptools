@@ -2,6 +2,9 @@
 
 # screptools
 
+> [!WARNING]  
+> This project is deprecated. See @dada78641/screp-ts and @dada78641/bwscrep.
+
 A small library for getting information from StarCraft: Remastered replay files. This library mainly just runs [screp](https://github.com/icza/screp), a command line tool that extracts the raw information from the replay files, and then runs some computations on the data for convenience.
 
 Besides the information retrieved from the replay files, screptools is also able to convert some of the colorized data (like map names and in-game text messages) for HTML and terminal output.
